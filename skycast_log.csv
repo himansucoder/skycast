@@ -1,0 +1,5 @@
+Date,State,Temperature (°C),Condition,Humidity (%),Wind Speed (km/h),Rain Probability,Forecast
+2025-07-01,assam,34.0,Sunny,38.0,5.0,Low,Clear skies expected.
+2025-07-01,assam,30.0,Cloudy,65.0,4.0,Medium,Possibility of light rain.
+2025-07-01,assam,23.0,Cloudy,67.0,7.0,Medium,Possibility of light rain.
+2025-07-01,mumbai,35.0,Cloudy,78.0,7.0,Medium,Possibility of light rain.
